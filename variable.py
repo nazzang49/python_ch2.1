@@ -24,7 +24,7 @@ print(kwlist)
 print(keyword.kwlist)
 
 # 한글 이름 변수 사용 가능
-가격1 = 1000
+가격1 = 100
 print(가격1)
 
 
